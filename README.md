@@ -61,5 +61,5 @@ This project is a **Tic Tac Toe** game written in **C++** for two players. The g
 
 ## Author
 **Hassan Jamshaid**  
-For course: **Introduction to Computing**
+For course: **Introduction to Computing**<br>
 For any Queries Contact me on my email hjamshaid81@gmail.com 
